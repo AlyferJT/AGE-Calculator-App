@@ -121,6 +121,7 @@ export default function UserInput({ setResult, handleResult }) {
           onClick={handleClick}
           className="main__form__imgBox-img"
           src={arrowImg}
+          alt="arrow button image"
         />
       </div>
     </form>
